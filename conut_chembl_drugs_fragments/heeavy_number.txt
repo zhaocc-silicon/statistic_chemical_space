@@ -1,0 +1,4 @@
+ele_frag_ring_number:chain,ring,double-ring,trple_ring,more 
+588, 468, 763, 451, 413]
+sec_frag_ring_number:chain,ring,double-ring,trple_ring,more 
+[2157, 5464, 4809, 3215, 2326]

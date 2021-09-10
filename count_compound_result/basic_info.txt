@@ -1,0 +1,19 @@
+molecule num:1126234
+all elements number:
+N:967599 H:1126072 C:1125835 O:924010 Cl:152684 S:267475 F:140920 Br:50312 P:16454 As:165 Si:2238 I:8051 Se:1837 Te:129 B:1870 Na:36 
+all halogen number:
+Cl:152684 F:140920 Br:50312 I:8051 
+all non-metal number:
+As:165 Si:2238 Se:1837 Te:129 B:1870 
+all metal number:
+Na:36 
+all ring number:
+0:44537 1:204590 2:327186 3:315793 4:152707 5:53890 6:17540 7:5952 8:2088 9:883 10:359 11:204 12:141 13:148 14:32 15:7 16:6 17:11 18:4 19:2 20:0 other:154 
+all ring size:
+3:30094 4:21706 5:622203 6:983634 7:54264 8:6021 9:1916 10:2145 11:22 12:52 13:41 14:34 15:1 16:181 17:3 18:38 19:0 20:0 other:7 
+congj_ring_num: 1010822
+non_congj_ring_num: 261962
+fuse_ring_num: 637216
+non-fuse_ring_num: 792396
+aro_ring_num: 1883922
+non_aro_ring_num: 1036124
